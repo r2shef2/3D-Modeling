@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff09 scene
 //Name: RJS_Finger_003.ma
-//Last modified: Wed, Jan 16, 2019 04:23:59 PM
+//Last modified: Wed, Jan 16, 2019 04:29:52 PM
 //Codeset: 1252
 requires maya "2018ff09";
 requires "mtoa" "3.1.1.1";
