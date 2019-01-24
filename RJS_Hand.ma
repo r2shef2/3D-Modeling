@@ -1,6 +1,6 @@
 //Maya ASCII 2018ff09 scene
-//Name: RJS_Finger_007.ma
-//Last modified: Wed, Jan 23, 2019 05:00:06 PM
+//Name: RJS_Hand.ma
+//Last modified: Wed, Jan 23, 2019 05:00:18 PM
 //Codeset: 1252
 requires maya "2018ff09";
 requires "mtoa" "3.1.1.1";
@@ -9070,4 +9070,4 @@ connectAttr "groupId9.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId10.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId11.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId12.msg" ":initialShadingGroup.gn" -na;
-// End of RJS_Finger_007.ma
+// End of RJS_Hand.ma
